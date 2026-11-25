@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Everyday Japan Studio — Articles</title>
+    <link>https://santasan0221-dev.github.io/everyday-japan-studio/</link>
+    <atom:link href="https://santasan0221-dev.github.io/everyday-japan-studio/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Free explainers from Everyday Japan Studio — practical Japan topics checked against official Japanese sources.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0900</lastBuildDate>
+
+    <item>
+      <title>How Japan's Tax-Free Refund System Works (Since November 2026)</title>
+      <link>https://santasan0221-dev.github.io/everyday-japan-studio/tax-free-refund-2026.html</link>
+      <guid>https://santasan0221-dev.github.io/everyday-japan-studio/tax-free-refund-2026.html</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+      <description>Japan replaced tax-free-at-the-register with a refund system on 1 November 2026. Pay full price, confirm at Customs before you check your bags, then the store refunds the tax. The threshold, the 90-day deadline, the math, and the traps that cancel refunds.</description>
+    </item>
+
+    <item>
+      <title>Is the JR Pass Worth It in 2026? The Break-Even Math</title>
+      <link>https://santasan0221-dev.github.io/everyday-japan-studio/jr-pass-worth-it.html</link>
+      <guid>https://santasan0221-dev.github.io/everyday-japan-studio/jr-pass-worth-it.html</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+      <description>Verified JR Pass prices, the break-even test based on travel days rather than trip days, the Nozomi supplement, and regional passes that often beat the national pass.</description>
+    </item>
+
+    <item>
+      <title>Onsen With Tattoos: House Rule, Not Law</title>
+      <link>https://santasan0221-dev.github.io/everyday-japan-studio/onsen-with-tattoos.html</link>
+      <guid>https://santasan0221-dev.github.io/everyday-japan-studio/onsen-with-tattoos.html</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+      <description>No Japanese law bans tattoos in baths. What the Public Bath Act and the Tourism Agency's 2016 notice actually say, the three answers a facility can give, Kinosaki's confirmed yes, and how to check any bath before you go.</description>
+    </item>
+
+    <item>
+      <title>Goshugi: How Much Cash to Give at a Japanese Wedding</title>
+      <link>https://santasan0221-dev.github.io/everyday-japan-studio/goshugi-amounts.html</link>
+      <guid>https://santasan0221-dev.github.io/everyday-japan-studio/goshugi-amounts.html</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+      <description>The ¥30,000 benchmark for a friend's wedding, customary amounts by relationship from the Zexy Wedding Trend Survey 2024, the number rules, new bills, and envelope basics.</description>
+    </item>
+
+    <item>
+      <title>Ho-Ren-So: The Reporting System Japanese Offices Run On</title>
+      <link>https://santasan0221-dev.github.io/everyday-japan-studio/ho-ren-so.html</link>
+      <guid>https://santasan0221-dev.github.io/everyday-japan-studio/ho-ren-so.html</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+      <description>Report, inform, consult — three different acts that foreign staff keep merging into one. The spinach pun, the 1982 origin, and the timing rules nobody states out loud.</description>
+    </item>
+
+    <item>
+      <title>Otoshi: The Dish You Didn't Order at the Izakaya</title>
+      <link>https://santasan0221-dev.github.io/everyday-japan-studio/izakaya-otoshi.html</link>
+      <guid>https://santasan0221-dev.github.io/everyday-japan-studio/izakaya-otoshi.html</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0900</pubDate>
+      <description>Why a small dish arrives before you've ordered anything, what it costs (usually ¥200–¥1,000), whether you can refuse it, and the separate seat charge to ask about.</description>
+    </item>
+
+  </channel>
+</rss>

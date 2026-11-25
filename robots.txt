@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://santasan0221-dev.github.io/everyday-japan-studio/sitemap.xml
